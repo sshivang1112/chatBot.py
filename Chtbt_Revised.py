@@ -1,4 +1,4 @@
-#Joseph Miller 07/10/2022
+
 import re
 def getname(answer):#Start by defining a function
   if answer == '': 
